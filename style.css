@@ -1,0 +1,45 @@
+body{
+    background-color: burlywood;
+    max-width: 1023px;
+    margin: auto;
+    text-align: center;
+}
+
+#navigation{
+    height: 50px;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 30px;
+}
+
+.bemutatas{
+    margin-top: 50px;
+    text-align: justify;
+}
+
+.tortenet{
+    margin-top: 50px;
+    text-align: justify;
+}
+
+.kaphato{
+    margin-top: 50px;
+    text-align: justify;
+    margin-bottom: 50px;
+}
+
+#footer{
+    margin-top: 50px;
+    background-color: brown;
+    color: burlywood;
+}
+
+.fagyizo{
+    margin: auto;
+}
+
+.kep{
+    margin-top: 50px;
+    height: 600px;
+    width: 500px;
+}
