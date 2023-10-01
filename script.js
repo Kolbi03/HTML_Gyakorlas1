@@ -49,7 +49,7 @@ function beadas()
 {
     if(emailHelyes == 1 && textHelyes == 1)
     {
-        document.getElementById("beadasText").innerText="Köszönjök az értékelést!"
+        document.getElementById("beadasText").innerText="Köszönjük az értékelést!"
     }
     else
     {
